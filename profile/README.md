@@ -25,7 +25,5 @@
 
 ## 💡 Über uns
 
-**IhreTelefonzentrale.de** ist seit 2005 Ihr zuverlässiges Inbound‑Callcenter und Telefonsekretariat aus Hessen. Wir sorgen dafür, dass **kein Anruf verloren geht**, damit Sie sich auf Ihr Kerngeschäft konzentrieren können. Egal ob Handwerksbetrieb, Kanzlei oder E‑Commerce‑Shop – wir nehmen professionell, freundlich und DSGVO‑konform Ihre Gespräche an.
-
-> *"Zwei Lösungen → Ein Ziel → Ihre telefonische Erreichbarkeit – seit 
+**IhreTelefonzentrale.de** ist seit 2005 Ihr zuverlässiges Inbound‑Callcenter und Telefonsekretariat aus Hessen. Wir sorgen dafür, dass **kein Anruf verloren geht**.
 
